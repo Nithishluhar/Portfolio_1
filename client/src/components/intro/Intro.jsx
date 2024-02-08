@@ -36,7 +36,7 @@ const Intro = () => {
             MongoDB for efficient data management.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Let's Talk
+            Contact me
           </a>
         </div>
       </div>
